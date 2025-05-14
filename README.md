@@ -4,7 +4,6 @@
 
 ## Документация
 
-- [Отчет о курсовой работе](./report/otchet.md)
 - [Руководство пользователя](./report/rukovodstvo_polzovatelya.md)
 - [Руководство программиста](./report/rukovodstvo_programmista.md)
 
